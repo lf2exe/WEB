@@ -1,0 +1,66 @@
+
+.header {
+    width: 100%;
+    height: 90px;
+    border: 10px double red;
+    box-sizing: border-box;
+    padding: 20px ;
+    margin: 30px ;
+    background: #bbb;
+}    
+
+.wrapper {
+    height: 700px ;
+    box-sizing: border-box;
+    width: 100% ;
+    margin: 20px;
+    border: 25px solid black;
+    padding: 10%;    
+}
+
+.sidemenu {
+    float: right;
+    width: 30%;
+    border: 10px dashed yellow;
+    height: 90%;
+}
+
+.main {
+    float: left;
+    width: 30%;
+    border: 10px double green;
+    height: 90%;
+}
+
+#word {
+    font-style: italic ;
+    font-size: 150%;
+    text-align: center;
+}    
+#word2 {
+    
+    font-style: italic;
+    font-size: 150%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%)
+}
+
+.footer {
+    width: 100%;
+    height: 0px;
+    border: 40px solid #bbb
+}
+
+#picture_1 {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#picture_2 {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}

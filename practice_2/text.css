@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    background: #333333;
+    position: fixed;
+    width: 192px;
+    height: 900px;
+    
+}
+
+.menu_1 {
+    height: 18.8%;
+    border: 1px solid black;
+    
+}
+
+.menu_2 {
+    height: 5%;
+    border: 1px solid black;
+    
+}
+
+.menu_3 {
+    height: 5%;
+    border: 1px solid black;
+    
+}
+
+.menu_4 {
+    height: 5%;
+    border: 1px solid black;
+}
+
+.menu_5 {
+    height: 5%;
+    border: 1px solid black;
+}
+
+.menu_6 {
+    height: 5%;
+    border: 1px solid black;
+}
+
+.menu_7 {
+    height: 5%;
+    border: 1px solid black;
+}
+
+#word_2 {
+    color: aliceblue;
+    font-size: 150%;
+    padding-top: 9px; 
+    display: inline-block;
+}
+
+.goout_2 {
+    color: aliceblue;
+    text-decoration:none;
+}
+
+#word_3 {
+    color: aliceblue;
+    font-size: 150%;
+    padding-top: 9px; 
+    display: inline-block
+}
+
+#word_4 {
+    color: aliceblue;
+    font-size: 150%;
+    display: inline-block;
+    padding-top: 9px;
+    }
+
+.goout_4 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#word_5 {
+    color: aliceblue;
+    font-size: 150%;
+    display: inline-block;
+    padding-top: 9px;
+    }
+
+.goout_5 {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#word_6 {
+    color: aliceblue;
+    font-size: 150%;
+    display: inline-block;
+    padding-top: 9px; 
+    
+}
+
+#word_7 {
+    color: aliceblue;
+    font-size: 150%;
+    display: inline-block;
+    padding-top: 9px; 
+    
+}
+.glyphicon {
+    color: black;
+    float: left;
+    
+}
+
+.glyphicon-search {
+    color: dimgray;
+    font-size: 150%;
+    padding: 12px;
+    
+}
+
+.glyphicon-heart-empty {    
+    color: dimgray;
+    font-size: 150%;
+    padding: 12px;
+    
+}
+
+
+.glyphicon-apple {
+    color: dimgray;
+    font-size: 150%;
+    padding: 12px;
+}
+
+.glyphicon-send {
+    color: dimgray;
+    font-size: 150%;
+    padding: 12px;
+}
