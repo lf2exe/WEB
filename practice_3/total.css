@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+
+}
+#show_bot {
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  margin: 0;
+  height: 20vh;
+}
+
+#show_left {
+  height: 80vh;
+  background: yellow
+}
+
+#show_top {
+  height: 20vh;
+  background: red;
+
+}
+
+#show_right {
+  padding: 0;
+  height:  80vh;
+  background: purple
+}
+
+#show_bot_left {
+
+  height: 20vh;
+}
+
+#show_bot_right {
+  padding: 0;
+  height: 20vh;
+  
+}
+
+
+#mid {
+  height: 15vh;
+  background: red;
+
+}
+
+#mid8 {
+  height: 80vh;
+  background: #777
+}
