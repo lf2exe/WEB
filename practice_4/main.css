@@ -1,0 +1,54 @@
+#test3{
+  margin-left: 2vh;
+  margin-right: 2vh;
+  margin-bottom: 2vh;
+
+}
+
+#test4 {
+  background-image: url("picture/main_1.jpg");
+  background-size: 100% 100%;
+  height: 80vh;
+
+}
+
+#test5 {
+  margin-left: 2vh;
+  margin-right: 2vh;
+  margin-bottom: 2vh;
+
+}
+
+#test55 {
+  padding: 0
+}
+
+#test5_1 {
+  height: 70vh;
+  background-image: url("picture/main_2_1.jpg");
+  background-size: 95% 95%;
+
+}
+
+#test5_2 {
+  height: 35vh;
+  background-image: url("picture/main_2_2.jpg");
+  background-size:99.8% 99.8%;
+
+}
+
+#test5_3{
+  height: 35vh;
+  background-image: url("picture/main_2_3.jpg");
+  background-size: cover;
+}
+
+#test6 {
+  margin: 0
+}
+
+#test6_1 {
+  height: 30vh;
+  color: white;
+
+}
